@@ -8,7 +8,7 @@
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React-blue" alt="Frontend Badge">
+  <img src="https://img.shields.io/badge/Frontend-React.JS-blue" alt="Frontend Badge">
   <img src="https://img.shields.io/badge/Backend-Node.js-green" alt="Backend Badge">
   <img src="https://img.shields.io/badge/Database-MySQL-yellow" alt="Database Badge">
   <img src="https://img.shields.io/badge/Version Control-GitHub-black" alt="GitHub Badge">
