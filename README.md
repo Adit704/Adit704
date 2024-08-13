@@ -6,7 +6,7 @@
 
 <!-- Introduction -->
 <p align="center">
-  Aspiring Frontend Developer with a passion for building user-friendly web applications. Experienced with HTML, CSS, JavaScript, React, and more.
+ Dynamic Frontend Developer specializing in React.js with a robust background in HTML, CSS, and JavaScript. Demonstrates exceptional ability in creating responsive and scalable web applications, integrating frontend with server-side APIs, and optimizing performance. Rapidly learning new technologies.
 </p>
 
 <!-- Badges -->
