@@ -1,8 +1,8 @@
 <!-- Header Section -->
 <h1 align="center">👋 Hi, I'm Aditya Kumar Ashwini</h1>
-<p align="center">
+<h5 align="center">
   <img src="https://your-image-url.com/your-image.png" alt="Aditya's Avatar" width="150">
-</p>
+</h5>
 
 <!-- Introduction -->
 <p align="center">
