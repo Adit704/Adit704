@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Version Control-GitHub-black" alt="GitHub Badge">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dishapaltani&label=Profile%20views&color=0e75b6&style=flat" alt="dishapaltani" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dishapaltani&label=Profile%20views&color=0e75b6&style=flat" alt="adi" /> </p>
 
 <p align="center">
   <img src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg" alt="Coding GIF" height="300px"/>
